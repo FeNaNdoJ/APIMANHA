@@ -1,0 +1,54 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1937,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949,
+      "categoria_id": 2
+    },
+    {
+      "titulo": "A Maçã no Escuro ",
+      "autor": "Clarice Lispector",
+      "ano_publicacao": "1961",
+      "categoria_id": "2",
+      "id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 2,
+      "nome": "Ficção Científica"
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "João Tavares",
+      "id": 1
+    },
+    {
+      "nome": "Maria do Carmo",
+      "id": 2
+    },
+    {
+      "nome": "Junior",
+      "id": 4
+    },
+    {
+      "nome": "NILSON JR",
+      "id": 5
+    }
+  ],
+  "pedidos": []
+}
